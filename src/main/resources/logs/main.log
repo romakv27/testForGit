@@ -1,0 +1,275 @@
+10.14:18.14.57  INFO/tru.sfedu.library.Main:13 - info
+10.14:18.14.57 ERROR/tru.sfedu.library.Main:14 - error
+10.14:18.14.57 DEBUG/tru.sfedu.library.Main:17 - Main[0]: starting application.........
+10.14:18.16.39  INFO/tru.sfedu.library.Main:22 - Launching the application...
+10.14:18.16.39  INFO/tru.sfedu.library.Main:23 - Operating System: Windows 10 10.0
+10.14:18.16.39  INFO/tru.sfedu.library.Main:24 - JRE: 16.0.1
+10.14:18.16.39  INFO/tru.sfedu.library.Main:25 - Java Launched From: C:\Program Files\Java\jdk-16.0.1
+10.14:18.16.39  INFO/tru.sfedu.library.Main:26 - Class Path: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.2\lib\idea_rt.jar;C:\Users\roma\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.1\junit-platform-launcher-1.8.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.2\plugins\junit\lib\junit-rt.jar;C:\Users\roma\IdeaProjects\library\target\test-classes;C:\Users\roma\IdeaProjects\library\target\classes;C:\Users\roma\.m2\repository\org\apache\logging\log4j\log4j-core\2.14.1\log4j-core-2.14.1.jar;C:\Users\roma\.m2\repository\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;C:\Users\roma\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.1\junit-jupiter-5.8.1.jar;C:\Users\roma\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\roma\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\roma\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\roma\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\roma\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\roma\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;C:\Users\roma\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;C:\Users\roma\.m2\repository\org\apache\maven\plugins\maven-assembly-plugin\3.3.0\maven-assembly-plugin-3.3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-plugin-api\3.0\maven-plugin-api-3.0.jar;C:\Users\roma\.m2\repository\org\sonatype\sisu\sisu-inject-plexus\1.4.2\sisu-inject-plexus-1.4.2.jar;C:\Users\roma\.m2\repository\org\sonatype\sisu\sisu-inject-bean\1.4.2\sisu-inject-bean-1.4.2.jar;C:\Users\roma\.m2\repository\org\sonatype\sisu\sisu-guice\2.1.7\sisu-guice-2.1.7-noaop.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-core\3.0\maven-core-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-settings\3.0\maven-settings-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-settings-builder\3.0\maven-settings-builder-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-repository-metadata\3.0\maven-repository-metadata-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-model-builder\3.0\maven-model-builder-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-aether-provider\3.0\maven-aether-provider-3.0.jar;C:\Users\roma\.m2\repository\org\sonatype\aether\aether-impl\1.7\aether-impl-1.7.jar;C:\Users\roma\.m2\repository\org\sonatype\aether\aether-spi\1.7\aether-spi-1.7.jar;C:\Users\roma\.m2\repository\org\sonatype\aether\aether-api\1.7\aether-api-1.7.jar;C:\Users\roma\.m2\repository\org\sonatype\aether\aether-util\1.7\aether-util-1.7.jar;C:\Users\roma\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.2.3\plexus-classworlds-2.2.3.jar;C:\Users\roma\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.5.5\plexus-component-annotations-1.5.5.jar;C:\Users\roma\.m2\repository\org\sonatype\plexus\plexus-sec-dispatcher\1.3\plexus-sec-dispatcher-1.3.jar;C:\Users\roma\.m2\repository\org\sonatype\plexus\plexus-cipher\1.4\plexus-cipher-1.4.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-artifact\3.0\maven-artifact-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-model\3.0\maven-model-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\shared\maven-common-artifact-filters\3.1.0\maven-common-artifact-filters-3.1.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\shared\maven-shared-utils\3.1.0\maven-shared-utils-3.1.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\shared\maven-artifact-transfer\0.11.0\maven-artifact-transfer-0.11.0.jar;C:\Users\roma\.m2\repository\org\slf4j\slf4j-api\1.7.5\slf4j-api-1.7.5.jar;C:\Users\roma\.m2\repository\org\codehaus\plexus\plexus-interpolation\1.25\plexus-interpolation-1.25.jar;C:\Users\roma\.m2\repository\org\codehaus\plexus\plexus-archiver\4.2.1\plexus-archiver-4.2.1.jar;C:\Users\roma\.m2\repository\org\apache\commons\commons-compress\1.19\commons-compress-1.19.jar;C:\Users\roma\.m2\repository\org\iq80\snappy\snappy\0.4\snappy-0.4.jar;C:\Users\roma\.m2\repository\org\tukaani\xz\1.8\xz-1.8.jar;C:\Users\roma\.m2\repository\org\apache\maven\shared\file-management\3.0.0\file-management-3.0.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\shared\maven-shared-io\3.0.0\maven-shared-io-3.0.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-compat\3.0\maven-compat-3.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\wagon\wagon-provider-api\2.10\wagon-provider-api-2.10.jar;C:\Users\roma\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\roma\.m2\repository\org\apache\maven\shared\maven-filtering\3.1.1\maven-filtering-3.1.1.jar;C:\Users\roma\.m2\repository\org\sonatype\plexus\plexus-build-api\0.0.7\plexus-build-api-0.0.7.jar;C:\Users\roma\.m2\repository\org\codehaus\plexus\plexus-io\3.2.0\plexus-io-3.2.0.jar;C:\Users\roma\.m2\repository\org\apache\maven\maven-archiver\3.5.0\maven-archiver-3.5.0.jar;C:\Users\roma\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\roma\.m2\repository\commons-codec\commons-codec\1.6\commons-codec-1.6.jar
+10.14:18.16.39  INFO/tru.sfedu.library.Main:27 - Library Path: C:\Program Files\Java\jdk-16.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\roma\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.2\bin;;.
+10.14:18.16.39  INFO/tru.sfedu.library.Main:28 - User Home Directory: C:\Users\roma
+10.14:18.16.39  INFO/tru.sfedu.library.Main:29 - User Working Directory: C:\Users\roma\IdeaProjects\library
+10.14:18.16.39  INFO/tru.sfedu.library.Main:30 - Test INFO logging.
+10.14:18.16.39 DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10.14:18.16.39  INFO/tru.sfedu.library.Main:14 - info
+10.14:18.16.39 ERROR/tru.sfedu.library.Main:15 - error
+10.14:18.17.32 DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10.14:18.17.32  INFO/tru.sfedu.library.Main:14 - info
+10.14:18.17.32 ERROR/tru.sfedu.library.Main:15 - error
+10.14 18.19.09 DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10.14 18.19.09  INFO/tru.sfedu.library.Main:14 - info
+10.14 18.19.09 ERROR/tru.sfedu.library.Main:15 - error
+10.14 18.19.39  DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10.14 18.19.39   INFO/tru.sfedu.library.Main:14 - info
+10.14 18.19.39  ERROR/tru.sfedu.library.Main:15 - error
+10.14 18.20.07 DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10.14 18.20.07 INFO /tru.sfedu.library.Main:14 - info
+10.14 18.20.07 ERROR/tru.sfedu.library.Main:15 - error
+10-14 18:20:58 DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10-14 18:20:58 INFO /tru.sfedu.library.Main:14 - info
+10-14 18:20:58 ERROR/tru.sfedu.library.Main:15 - error
+10-14 18:22:47 DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10-14 18:22:47 INFO /tru.sfedu.library.Main:14 - info
+10-14 18:22:47 ERROR/tru.sfedu.library.Main:15 - error
+10-14 18:22:47 DEBUG/tru.sfedu.library.Main:16 - 22
+10-14 18:23:05 DEBUG/tru.sfedu.library.Main:13 - Main[0]: starting application.........
+10-14 18:23:05 INFO /tru.sfedu.library.Main:14 - info
+10-14 18:23:05 ERROR/tru.sfedu.library.Main:15 - error
+10-14 18:23:05 DEBUG/tru.sfedu.library.Main:16 - 4
+10-14 18:25:12 DEBUG/tru.sfedu.library.Main:16 - Main[0]: starting application.........
+10-14 18:25:12 INFO /tru.sfedu.library.Main:17 - info
+10-14 18:25:12 ERROR/tru.sfedu.library.Main:18 - error
+10-14 18:25:12 DEBUG/tru.sfedu.library.Main:19 - 4
+10-14 18:26:08 DEBUG/tru.sfedu.library.Main:16 - Main[0]: starting application.........
+10-14 18:26:08 INFO /tru.sfedu.library.Main:17 - info
+10-14 18:26:08 ERROR/tru.sfedu.library.Main:18 - error
+10-14 18:26:08 DEBUG/tru.sfedu.library.Main:19 - 4
+10-14 18:26:08 DEBUG/tru.sfedu.library.Main:20 - value
+10-14 19:33:30 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.io.FileNotFoundException: src\main\resources\csv\User.csv (Системе не удается найти указанный путь)
+10-14 19:33:30 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-14 19:33:30 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-14 19:33:30 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.io.FileNotFoundException: src\main\resources\csv\User.csv (Системе не удается найти указанный путь)
+10-14 19:33:30 ERROR/tru.sfedu.library.api.DataProviderCSV:71 - java.io.FileNotFoundException: src\main\resources\csv\User.csv (Системе не удается найти указанный путь)
+10-14 19:36:25 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-14 19:36:25 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-14 19:36:25 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-14 19:36:25 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:19:12 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:19:12 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:19:12 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:19:12 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:19:44 DEBUG/tru.sfedu.library.Main:19 - Main[0]: starting application.........
+10-16 12:19:44 INFO /tru.sfedu.library.Main:20 - info
+10-16 12:19:44 ERROR/tru.sfedu.library.Main:21 - error
+10-16 12:19:44 DEBUG/tru.sfedu.library.Main:22 - 4
+10-16 12:19:44 DEBUG/tru.sfedu.library.Main:23 - value
+10-16 12:21:14 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:21:14 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:21:14 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:21:14 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:21:14 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:21:14 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:21:14 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:21:14 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:21:14 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:21:14 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:21:15 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:21:15 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:21:15 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:21:15 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:21:48 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:21:48 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:21:48 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.io.FileNotFoundException: src\main\resources\csv\User.csv (Системе не удается найти указанный путь)
+10-16 12:21:48 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:21:48 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:21:48 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:21:48 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:21:48 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.io.FileNotFoundException: src\main\resources\csv\User.csv (Системе не удается найти указанный путь)
+10-16 12:21:48 ERROR/tru.sfedu.library.api.DataProviderCSV:73 - java.io.FileNotFoundException: src\main\resources\csv\User.csv (Системе не удается найти указанный путь)
+10-16 12:22:18 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:22:18 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:22:18 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.NullPointerException
+10-16 12:22:18 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:22:18 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:22:18 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:22:18 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:22:18 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.NullPointerException
+10-16 12:22:18 ERROR/tru.sfedu.library.api.DataProviderCSV:73 - java.lang.NullPointerException
+10-16 12:24:28 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:28 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:28 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:24:28 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:24:28 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:28 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:29 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:24:29 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:24:29 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:29 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:29 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:29 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:29 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:29 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:46 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:46 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:47 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.RuntimeException: Error parsing CSV line: 1. [ivan]
+10-16 12:24:47 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:24:47 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:24:47 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:47 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:47 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.RuntimeException: Error parsing CSV line: 1. [ivan]
+10-16 12:24:47 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:24:47 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:24:47 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:24:47 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:24:47 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.RuntimeException: Error parsing CSV line: 1. [ivan"1,,,18]
+10-16 12:25:08 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:08 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:09 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:25:09 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:25:09 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:09 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:09 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:25:09 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:25:09 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:09 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:09 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:09 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:09 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:09 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:44 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:44 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:44 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.RuntimeException: Error parsing CSV line: 1. [Ivan, Ivanov]
+10-16 12:25:44 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:25:44 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:25:44 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:44 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:44 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.RuntimeException: Error parsing CSV line: 1. [Ivan, Ivanov]
+10-16 12:25:45 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:25:45 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:25:45 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:25:45 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:25:45 ERROR/tru.sfedu.library.api.DataProviderCSV:86 - java.lang.RuntimeException: Error parsing CSV line: 1. [Ivan, Ivanov"1,,,18]
+10-16 12:26:48 DEBUG/tru.sfedu.library.api.DataProviderCSV:45 - Creating a new user
+10-16 12:26:48 INFO /tru.sfedu.library.api.DataProviderCSV:46 - User with this id already exists
+10-16 12:27:22 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:27:22 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:27:22 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:27:22 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:28:03 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban]
+10-16 12:28:03 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:28:03 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:28:03 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban]
+10-16 12:28:03 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:28:03 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:28:03 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban"1,,,18]
+10-16 12:28:24 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban"1,,,18]
+10-16 12:28:24 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:28:24 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:28:25 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban"1,,,18]
+10-16 12:28:25 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:28:25 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:28:25 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban"1,,,18]
+10-16 12:28:44 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban"1,,,18]
+10-16 12:28:44 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:28:44 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:28:44 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban"1,,,18]
+10-16 12:28:44 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [iban"1,,,18]
+10-16 12:29:10 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:29:10 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:29:45 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:29:45 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:29:58 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:29:58 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:29:58 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [as]
+10-16 12:29:59 ERROR/tru.sfedu.library.api.DataProviderCSV:84 - java.lang.RuntimeException: Error parsing CSV line: 1. [as1,,,19]
+10-16 12:33:34 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:33:34 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:33:35 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:33:35 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:33:50 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:33:51 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:34:32 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:34:32 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:34:32 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:34:32 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:34:42 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:34:42 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:34:42 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:34:42 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:35:12 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:35:12 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:35:13 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:35:13 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:35:37 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:35:37 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:35:53 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:35:53 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:35:54 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:35:54 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:36:04 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:36:04 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:36:04 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:36:04 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:36:53 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:36:53 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:36:54 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:36:54 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:38:19 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:38:19 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:38:58 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:38:58 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:39:18 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:39:18 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:40:11 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:40:11 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:40:11 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:40:11 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:42:47 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:42:47 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:42:47 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:42:47 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:43:50 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:43:50 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:43:50 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:43:50 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:47:36 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:47:36 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:47:36 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:47:36 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:48:17 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:48:17 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:48:40 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:48:40 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-16 12:48:55 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-16 12:48:55 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:21:51 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:21:51 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:21:51 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:21:51 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:29:13 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:29:13 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:29:13 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:29:13 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:30:13 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:30:13 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:30:13 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:30:13 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:31:11 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:31:11 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-17 16:31:11 DEBUG/tru.sfedu.library.api.DataProviderCSV:34 - Creating a new user
+10-17 16:31:11 INFO /tru.sfedu.library.api.DataProviderCSV:35 - User with this id already exists
+10-23 13:01:05 DEBUG/tru.sfedu.library.Main:19 - Main[0]: starting application.........
+10-23 13:01:05 INFO /tru.sfedu.library.Main:20 - info
+10-23 13:01:05 ERROR/tru.sfedu.library.Main:21 - error
+10-23 13:01:05 DEBUG/tru.sfedu.library.Main:22 - 4
+10-23 13:01:05 DEBUG/tru.sfedu.library.Main:23 - value
+10-23 13:01:59 DEBUG/tru.sfedu.library.Main:19 - Main[0]: starting application.........
+10-23 13:01:59 INFO /tru.sfedu.library.Main:20 - info
+10-23 13:01:59 ERROR/tru.sfedu.library.Main:21 - error
+10-23 13:01:59 DEBUG/tru.sfedu.library.Main:22 - 4
+10-23 13:01:59 DEBUG/tru.sfedu.library.Main:23 - value
+10-23 13:02:03 DEBUG/tru.sfedu.library.Main:19 - Main[0]: starting application.........
+10-23 13:02:03 INFO /tru.sfedu.library.Main:20 - info
+10-23 13:02:03 ERROR/tru.sfedu.library.Main:21 - error
+10-23 13:02:03 DEBUG/tru.sfedu.library.Main:22 - 4
+10-23 13:02:03 DEBUG/tru.sfedu.library.Main:23 - value

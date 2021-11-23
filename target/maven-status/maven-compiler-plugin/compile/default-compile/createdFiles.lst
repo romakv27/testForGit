@@ -1,0 +1,10 @@
+ru\sfedu\library\utils\ConfigurationUtil.class
+ru\sfedu\library\Constants.class
+ru\sfedu\library\Main.class
+ru\sfedu\library\api\DataProviderNew.class
+ru\sfedu\library\api\IDataProvider.class
+ru\sfedu\library\api\DataProviderCSV.class
+ru\sfedu\library\entity\Student.class
+ru\sfedu\library\entity\User.class
+ru\sfedu\library\entity\enums\Outcomes.class
+ru\sfedu\library\api\DataProviderCSVnew.class
