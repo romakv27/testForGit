@@ -13,6 +13,6 @@ public class Cli {
 
     public static void main(String []args) {
         System.out.println(ERROR);
-
+        System.out.println(OK);
     }
 }
