@@ -9,6 +9,7 @@ import ru.sfedu.library.entity.User;
 import java.io.IOException;
 
 import static ru.sfedu.library.Constants.*;
+import static ru.sfedu.library.entity.enums.Outcomes.OK;
 import static ru.sfedu.library.utils.ConfigurationUtil.getConfigurationEntry;
 
 public class Main {
@@ -21,7 +22,7 @@ public class Main {
         log.error("error");
         log.debug(Constants.CONST);
         log.debug(getConfigurationEntry(SOUR));
-
+        log.info(OK);
     }
 
     public void logBasicSystemInfo() {
