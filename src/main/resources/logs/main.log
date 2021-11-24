@@ -273,3 +273,9 @@
 10-23 13:02:03 ERROR/tru.sfedu.library.Main:21 - error
 10-23 13:02:03 DEBUG/tru.sfedu.library.Main:22 - 4
 10-23 13:02:03 DEBUG/tru.sfedu.library.Main:23 - value
+11-24 09:26:12 DEBUG/tru.sfedu.library.Main:20 - Main[0]: starting application.........
+11-24 09:26:12 INFO /tru.sfedu.library.Main:21 - info
+11-24 09:26:12 ERROR/tru.sfedu.library.Main:22 - error
+11-24 09:26:12 DEBUG/tru.sfedu.library.Main:23 - 4
+11-24 09:26:12 DEBUG/tru.sfedu.library.Main:24 - value
+11-24 09:26:12 ERROR/tru.sfedu.library.Main:25 - ERROR
